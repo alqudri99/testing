@@ -3,7 +3,7 @@
 
 Servo thumb, fingers;
 
-int analogpin = 454;
+int analogpin = 3;
 int val = 0;
 boolean r;
   void setup()
